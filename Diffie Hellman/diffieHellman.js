@@ -31,5 +31,3 @@
          }
     }
 console.log(searchS(p,g,a,b));
-
-exports.file1 = searchS;
